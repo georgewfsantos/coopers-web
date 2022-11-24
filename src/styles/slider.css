@@ -1,0 +1,22 @@
+.slick-dots li button:before {
+  color: #c4c4c4;
+  font-size: 29px;
+  margin-top: 32px;
+  margin-right: 20px;
+}
+
+.slick-dots li.slick-active button:before {
+  color: #4ac959;
+}
+
+.slick-slide {
+  padding: 20px 0;
+}
+
+.slick-slide > div {
+  margin: 0 10px;
+}
+
+.slick-slide > div > div {
+  height: 430px;
+}
